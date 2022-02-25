@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-portfolio",
+  "version": "1.0.0",
+  "description": "Practicing tailwind css",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./index.css -o ./tailwind.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TraeCoker/tailwind-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TraeCoker/tailwind-lab/issues"
+  },
+  "homepage": "https://github.com/TraeCoker/tailwind-lab#readme"
+}
